@@ -3,3 +3,4 @@ trace.zip
 venv
 .venv
 .idea
+*/__pycache__/*
