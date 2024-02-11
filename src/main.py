@@ -4,7 +4,7 @@ import logging
 from os import path
 from httpx import AsyncClient
 from datetime import datetime
-from .webui_token import get_token
+from src.webui_token import get_token
 
 client = AsyncClient()
 

@@ -4,7 +4,7 @@ import random
 import logging
 from asyncio import sleep
 from playwright.async_api import Response, async_playwright, TimeoutError
-from .mfa_code import get_mfa_code
+from src.mfa_code import get_mfa_code
 
 token: str | None = None
 
