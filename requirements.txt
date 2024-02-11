@@ -3,3 +3,4 @@ httpx==0.26.0
 jmapc==0.2.20
 pip-chill==1.0.3
 playwright==1.41.1
+ruff==0.2.1
